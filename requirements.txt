@@ -1,0 +1,21 @@
+colabcode --q
+fastapi  --q
+pydub==0.25.1 --q
+denoiser==0.1.5 --q
+openai==0.28.0 --q
+gdown==4.7.1 --q
+elevenlabs --q
+openai-whisper==20230314 --q
+transformers==4.33.0 --q
+torchaudio==2.0.2 --q
+-U git+https://github.com/ytdl-org/youtube-dl --q
+imageio==2.9.0 --q
+imageio-ffmpeg==0.4.5 --q
+git+https://github.com/1adrianb/face-alignment@v1.0.1 --q
+pyyaml==5.4.1 --q
+websockets --q
+fastapi uvicorn pydub python-multipart --q
+fastapi --q
+"uvicorn[standard]" --q
+elevenlabs --q
+pydub --q
